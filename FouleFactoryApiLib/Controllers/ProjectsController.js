@@ -52,8 +52,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
@@ -97,8 +97,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
@@ -152,8 +152,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
@@ -207,8 +207,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
@@ -262,8 +262,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
@@ -317,8 +317,8 @@ angular.module('FouleFactoryApiLib').factory('ProjectsController',function($q,Co
             
             //process response
             _response.then(function(_result){
-                var _strResult =_result.body;
-            	_result = JSON.parse(_strResult);
+                var _result =_result.body;
+            	
                 _deffered.resolve(_result);
             },function(_result){
                 //Error handling for custom HTTP status codes
