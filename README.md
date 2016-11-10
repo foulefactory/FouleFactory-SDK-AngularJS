@@ -55,7 +55,7 @@ The following shows how import the controllers and use:
 				----	or with CDN	----
 
     <!-- Helper files -->
-    <script src="http://cdn.200.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Configuration.js"></script>
+    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Configuration.js"></script>
     <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/APIHelper.js"></script>
     <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/HttpContext.js"></script>
     <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/RequestClient.js"></script>
