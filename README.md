@@ -55,35 +55,35 @@ The following shows how import the controllers and use:
 				----	or with CDN	----
 
     <!-- Helper files -->
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Configuration.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/APIHelper.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/HttpContext.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/RequestClient.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Request/HttpRequest.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Response/HttpResponse.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Configuration.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/APIHelper.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/HttpContext.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Client/RequestClient.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Request/HttpRequest.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Http/Response/HttpResponse.js"></script>
 
     <!-- API Controllers -->
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskAnswerTextsController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskAnswerChoicesController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/ProjectsController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/CsvFilesController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/AccountController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TemplatesController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TasksController.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskLinesController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskAnswerTextsController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskAnswerChoicesController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/ProjectsController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/CsvFilesController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/AccountController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TemplatesController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TasksController.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Controllers/TaskLinesController.js"></script>
 
     <!-- Models -->
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/BaseModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/AccountWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/PayinServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/CsvFileWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/ProjectWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TaskLinesWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TaskValidationWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateNewWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateInstructionWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateColumnWriterServiceModel.js"></script>
-    <script src="http://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateQuestionWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/BaseModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/AccountWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/PayinServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/CsvFileWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/ProjectWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TaskLinesWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TaskValidationWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateNewWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateInstructionWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateColumnWriterServiceModel.js"></script>
+    <script src="https://cdn.100.foulefactory.com/sdk/FouleFactory-SDK-AngularJS/v1.1.100/FouleFactoryApiLib/Models/TemplateQuestionWriterServiceModel.js"></script>
 
 3) Inject the module into your main module e.g:
 
